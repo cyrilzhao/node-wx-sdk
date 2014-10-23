@@ -1,0 +1,30 @@
+{
+  "name": "node-wx-sdk",
+  "version": "1.0.0",
+  "description": "sdk for wechat thirdparty development",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyrilzhao/node-wx-sdk.git"
+  },
+  "keywords": [
+    "nodejs",
+    "wechat",
+    "sdk"
+  ],
+  "author": "cyrilzhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyrilzhao/node-wx-sdk/issues"
+  },
+  "homepage": "https://github.com/cyrilzhao/node-wx-sdk",
+  "dependencies": {
+    "bufferhelper": "^0.2.0"
+  }
+}
